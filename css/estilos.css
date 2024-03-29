@@ -1,0 +1,75 @@
+body{
+    margin: 100px;    
+}
+
+
+.luckiest-guy-regular {
+    font-family: "Luckiest Guy", cursive;
+    font-size: 100px;
+    font-style: normal;
+}
+  
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.gloria-hallelujah-regular {
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}  
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container{
+    background-color: chocolate;
+    height: 100px;
+}
+
+#carouselExampleControls{
+    max-width: 800px;
+    margin: auto;
+}
+
+.btn-outline-dark{
+    margin: auto;
+    width: 300px;
+}
+
+.btn-primary{
+    margin-top: 20px;
+    margin-bottom:  20px;
+}
+
+.row
+{
+    margin: 5px;
+    text-align: center;
+}
+
+.col{
+    margin: 5px;
+    
+}
+
+.card{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom:  20px;
+}
+  
+img{
+    margin: auto;
+    width: 400px;
+    
+}
+
+  
